@@ -1,0 +1,1 @@
+alter table ADM_UTILITY.POC.employees add column salary number;
